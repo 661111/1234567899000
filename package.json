@@ -1,0 +1,52 @@
+{
+  "name": "fcircle-theme-yyyz",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.9",
+    "axios": "^0.27.2",
+    "core-js": "^3.6.5",
+    "element-plus": "^2.2.17",
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.15",
+    "@vue/cli-plugin-eslint": "~4.5.15",
+    "@vue/cli-service": "~4.5.15",
+    "@vue/compiler-sfc": "^3.0.0",
+    "@vue/eslint-config-standard": "^5.1.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^7.0.0"
+  },
+  "description": "```\r npm install\r ```",
+  "files": [
+    "dist/app.min.js",
+    "dist/bundle.js"
+  ],
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiltay/hexo-circle-of-friends-front.git"
+  },
+  "keywords": [
+    "yyyz",
+    "5.x",
+    "友链朋友圈前端插件"
+  ],
+  "author": "yyyz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiltay/hexo-circle-of-friends-front/issues"
+  },
+  "homepage": "https://github.com/hiltay/hexo-circle-of-friends-front#readme"
+}
